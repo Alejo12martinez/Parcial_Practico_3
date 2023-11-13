@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.servicios.restapiclient","l":"Book"},{"p":"com.servicios.restapiclient","l":"RestClient"},{"p":"com.servicios.restapiclient","l":"RestClientServicesGUI"}]

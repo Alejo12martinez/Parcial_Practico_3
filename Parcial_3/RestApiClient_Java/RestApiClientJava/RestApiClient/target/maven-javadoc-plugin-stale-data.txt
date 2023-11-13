@@ -1,0 +1,60 @@
+@options
+@argfile
+-classpath
+'C:/Users/alejo/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;C:/Users/alejo/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar;C:/Users/alejo/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/alejo/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar;C:/Users/alejo/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.jar;C:/Users/alejo/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar;C:/Users/alejo/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/compilaciones/Servicios_Telematicos/RestApiClientJava/RestApiClient/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/compilaciones/Servicios_Telematicos/RestApiClientJava/RestApiClient/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'RestApiClient 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/compilaciones/Servicios_Telematicos/RestApiClientJava/RestApiClient/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'RestApiClient 1.0-SNAPSHOT API'
+'C:/compilaciones/Servicios_Telematicos/RestApiClientJava/RestApiClient/src/main/java/com/servicios/restapiclient/Book.java'
+'C:/compilaciones/Servicios_Telematicos/RestApiClientJava/RestApiClient/src/main/java/com/servicios/restapiclient/RestClient.java'
+'C:/compilaciones/Servicios_Telematicos/RestApiClientJava/RestApiClient/src/main/java/com/servicios/restapiclient/RestClientServicesGUI.java'
+C:\Users\alejo\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar = 1699722978277
+C:\Users\alejo\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar = 1699722978379
+C:\Users\alejo\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1696522463064
+C:\Users\alejo\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar = 1699722978379
+C:\Users\alejo\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar = 1699793104381
+C:\Users\alejo\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar = 1699793104348
+C:\Users\alejo\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar = 1699793104444
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\src\main\java = 1699722065729
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\allclasses-index.html = 1699892944257
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\allclasses.html = 1699892944268
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\allpackages-index.html = 1699892944257
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\constant-values.html = 1699892944207
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\deprecated-list.html = 1699892944268
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\element-list = 1699892944187
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\help-doc.html = 1699892944277
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\index-all.html = 1699892944257
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\index.html = 1699892944268
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\jquery-ui.overrides.css = 1699892944297
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\member-search-index.js = 1699892944257
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\member-search-index.zip = 1699892944257
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\overview-tree.html = 1699892944237
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\package-search-index.js = 1699892944247
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\package-search-index.zip = 1699892944247
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\script.js = 1699892944277
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\search.js = 1699892944277
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\serialized-form.html = 1699892944219
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\stylesheet.css = 1699892944277
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\type-search-index.js = 1699892944247
+C:\compilaciones\Servicios_Telematicos\RestApiClientJava\RestApiClient\target\apidocs\type-search-index.zip = 1699892944247

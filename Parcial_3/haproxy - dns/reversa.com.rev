@@ -1,0 +1,15 @@
+$ORIGIN 50.168.192.in-addr.arpa.
+$TTL 3H
+@       IN SOA  server.sender.com. root@sender.com. (
+                                        0       ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H )    ; minimum
+
+@       IN      NS     server.sender.com.
+
+2       IN      PTR    server.haproxy.com.    ; Para 192.168.50.2
+3       IN      PTR    server.sender.com.     ; Para 192.168.50.3
+4       IN      PTR    server.prometheus.com. ; Para 192.168.50.4
+~                                                                      

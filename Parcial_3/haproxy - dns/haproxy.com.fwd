@@ -1,0 +1,13 @@
+$ORIGIN haproxy.com.
+$TTL 3H
+@       IN SOA  server.haproxy.com. root@haproxy.com. (
+                                        0       ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H )    ; minimum
+
+@       IN      NS     server.haproxy.com.
+
+server  IN      A      192.168.50.2
+ww2     IN      CNAME  server
